@@ -1,4 +1,4 @@
-import {variance} from "./data/stats_helpers";
+import {variance} from "./data/stats_helpers.js";
 
 
 /**
